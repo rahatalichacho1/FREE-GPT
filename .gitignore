@@ -1,0 +1,13 @@
+# Node/Svelte (frontend)
+chahco-gpt/node_modules/
+chahco-gpt/build/
+chahco-gpt/.env
+
+# Python (backend)
+chacho-gpt-backend/__pycache__/
+chacho-gpt-backend/*.pyc
+chacho-gpt-backend/*.pyo
+chacho-gpt-backend/.env
+
+# General
+.DS_Store
